@@ -1,0 +1,6 @@
+Requirements Of This Project,
+Python Version 2.7 
+Django Version 1.11
+
+Here,i mentioned event app and it has all the models and views and relted urls 
+
